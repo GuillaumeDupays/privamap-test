@@ -1,0 +1,380 @@
+{
+  "elements": [
+    {
+      "id": 1,
+      "type": 1,
+      "name": "Le Dauphin",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 2,
+      "type": 1,
+      "name": "La Chapelle",
+      "shortname": "",
+      "description": "La chapelle de style jésuite, véritable cœur de la citadelle où l'on y célèbre alors trois messes par jour car chaque soldat est tenu d’assister à l’office quotidiennement.",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 3,
+      "type": 1,
+      "name": "Porte Dauphine",
+      "shortname": "Accès secondaire",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "name": "Porte Royale",
+      "shortname": "Accès principal",
+      "description": "En passant la Porte Royale dont la façade s’orne d’un gigantesque trophée d’armes aux fleurs de lys de la France ajouté tardivement, l’on aperçoit la chapelle de style jésuite, véritable cœur de la citadelle.",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 5,
+      "type": 2,
+      "name": "Bastion du Roy",
+      "shortname": "Le Roy",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "type": 2,
+      "name": "Bastion du Dauphin",
+      "shortname": "Dauphin",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "type": 2,
+      "name": "Bastion de Turenne",
+      "shortname": "Turenne",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "type": 2,
+      "name": "Bastion de la Reine",
+      "shortname": "La Reine",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "type": 2,
+      "name": "Bastion d'Anjou",
+      "shortname": "Anjou",
+      "description": "Sous le bastion d'Anjou se trouvaient 19 magasins à poudre souterrains."
+    },
+    {
+      "id": 10,
+      "type": 1,
+      "name": "Caserne Picardie",
+      "shortname": "Picardie",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 11,
+      "type": 1,
+      "name": "Caserne Champagne",
+      "shortname": "Champagne",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "name": "Caserne Piémont",
+      "shortname": "Piémont",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "name": "Caserne Navarre",
+      "shortname": "Navarre",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "name": "Caserne Normandie",
+      "shortname": "Normandie",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "name": "Caserne La Marine",
+      "shortname": "La Marine",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "name": "Prison",
+      "shortname": "",
+      "description": "A la droite de la chapelle, se trouvaient les prisons et l’Etat-major, aujourd'hui affecté à l’infirmerie de garnison",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "name": "Logement Etat Major",
+      "shortname": "",
+      "description": "A la droite de la chapelle, se trouvaient les prisons et l’Etat-major, aujourd'hui affecté à l’infirmerie de garnison.",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "name": "Hôtel du gouverneur",
+      "shortname": "",
+      "description": "A la gauche de la chapelle se dressait le logement du gouverneur, aujourd’hui remplacé par le bâtiment de l’ordinaire.",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "name": "Poudrière de Turenne",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 20,
+      "type": 1,
+      "name": "Place d'Armes",
+      "shortname": "",
+      "description": "La place d’armes, au centre de laquelle se dresse le mât des couleurs, s’organise autour d’une place pentagonale dont la fausse symétrie perd régulièrement le visiteur."
+    },
+    {
+      "id": 21,
+      "type": 1,
+      "name": "Arsenal",
+      "shortname": "",
+      "description": "L'arsenal fût incendié en 1919. Restauré récemment, il s’ouvre sur une cour intérieure. Sa fonction est annoncée par un imposant tympan sur lequel deux canons de campagne se croisent, accompagnées de drapeaux et de faisceaux d’armes. Très décorées , ses façades sont rythmées par des mascarons portant une fleur de lys surmontée d’une tête de lion, symbole héraldique de la Flandre."
+    },
+    {
+      "id": 22,
+      "type": 1,
+      "name": "Brasserie & Boulangerie",
+      "shortname": "B&B",
+      "description": "Dans le voisinage immédiat de l'arsenal, on trouve aussi un magasin pour les vivres, une boulangerie et divers bâtiments destinés à assurer l’intendance.",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 23,
+      "type": 1,
+      "name": "Magasin d'Artillerie",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch",
+        "https://placeimg.com/500/300/arch"
+      ]
+    },
+    {
+      "id": 24,
+      "type": 1,
+      "name": "Bâtiments inconnus",
+      "shortname": "",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "type": 3,
+      "name": "Demi Lune Saint-Georges",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 26,
+      "type": 3,
+      "name": "Demi Lune Royale",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 27,
+      "type": 3,
+      "name": "Corps de Garde",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 28,
+      "type": 3,
+      "name": "Demi Lune Sainte-Barbe",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 29,
+      "type": 3,
+      "name": "Demi Lune Saint-Sébastien",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 30,
+      "type": 3,
+      "name": "Demi Lune Dauphine",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 31,
+      "type": 3,
+      "name": "Contregarde du Roi",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 32,
+      "type": 3,
+      "name": "Contregarde d'Anjou",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 33,
+      "type": 3,
+      "name": "Contregarde de la Reine",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 34,
+      "type": 3,
+      "name": "Contregarde de Turenne",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 35,
+      "type": 3,
+      "name": "Contregarde du Dauphin",
+      "shortname": "",
+      "description": "",
+      "images": [
+        "https://placeimg.com/500/300/nature",
+        "https://placeimg.com/500/300/nature"
+      ]
+    },
+    {
+      "id": 36,
+      "type": 2,
+      "name": "Mur d'Enceinte",
+      "shortname": "",
+      "description": "Deux portes monumentales permettent d’y accéder : la Porte Royale, face à la ville et la Porte Dauphine, regardant vers la campagne."
+    }
+  ]
+}

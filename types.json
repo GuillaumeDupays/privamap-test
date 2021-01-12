@@ -1,0 +1,16 @@
+{
+  "types": [
+    {
+      "id": 1,
+      "name": "Bâtiments"
+    },
+    {
+      "id": 2,
+      "name": "Première ligne"
+    },
+    {
+      "id": 3,
+      "name": "Deuxième ligne"
+    }
+  ]
+}
