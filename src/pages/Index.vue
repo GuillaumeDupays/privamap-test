@@ -8,6 +8,8 @@
 import Carte from "src/components/Carte.vue"
 
 export default {
-  components: { Carte }
+  components: { 
+    Carte
+   }
 }
 </script>

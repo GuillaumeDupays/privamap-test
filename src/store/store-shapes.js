@@ -1,4 +1,4 @@
-const elements = {
+const shapes = {
     
     namespaced: true,
 
@@ -16,4 +16,4 @@ const elements = {
     },
 }
 
-export default elements;
+export default shapes;
