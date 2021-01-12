@@ -1,14 +1,13 @@
 <template>
   <q-page class="flex flex-center">
-    <img
-      alt="Quasar logo"
-      src="~assets/quasar-logo-full.svg"
-    >
+    <carte></carte>
   </q-page>
 </template>
 
 <script>
+import Carte from "src/components/Carte.vue"
+
 export default {
-  name: 'PageIndex'
+  components: { Carte }
 }
 </script>
