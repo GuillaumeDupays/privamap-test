@@ -1,25 +1,24 @@
 <template>
-    <l-icon ref="icon">
-      <img 
-        class="maison-icon" 
-        :src="element.images"
-      />
-      {{ element.images }}
-    </l-icon>
+  <div>
+      <div>
+      <button @click='changeBtn()'>btn test</button><br><br>
+      <button>{{ btnTest }}</button>
+    </div>
+  </div>
 </template>
 
 <script>
-import { LIcon } from 'vue2-leaflet'
 
 export default {
-  components: { LIcon },
+  components: {  },
   props: {
-    element: {
-      type: Object,
-      required: true
-    }
+    btnTest: String
   },
-
+  methods: {
+   changeBtn() {
+     this.$emit('changeBtn', 'nextBtn')
+   }
+ }
 }
 </script>
 

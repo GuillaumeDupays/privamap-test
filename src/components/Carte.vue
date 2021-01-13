@@ -9,12 +9,11 @@
   > 
 
     <l-tile-layer :url="url" />
-    
-    <l-control position="bottomleft">
-      <elements />
-    </l-control>
     <l-control position="topright">
        <btn-nav></btn-nav>
+    </l-control>
+    <l-control position="topleft">
+      <elements />
     </l-control>
   </l-map>
 </template>
