@@ -7,7 +7,9 @@
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
-    "db": "json-server --watch elements.json types.json shapes.json"
+    "dbelements": "json-server --watch elements.json --port 3000",
+    "dbtypes": "json-server --watch types.json --port 4000",
+    "dbshapes": "json-server --watch shapes.json --port 8000 "
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",

@@ -1,18 +1,17 @@
 <template>
     <div>
-        <h4>Elements</h4>
         <select v-model="$store.state.selected">
             <option 
-                v-for="element in elements" 
+                v-for="element in types" 
                 :key="element.id"
                 :data="element"
             >
                 {{ element.name }}
             </option>
         </select>
-        <element-details>
+        <div>
             {{ $store.state.selected }}
-        </element-details>
+        </div>
     </div>
 </template>
 
@@ -22,10 +21,10 @@ import ElementDetails from './ElementDetails'
 
 export default {
   computed: {
-      ...mapState('elements', ['elements']),
+      ...mapState('elements', ['types']),
   },
   created() {
-      this.$store.dispatch('elements/chargerElements')
+      this.$store.dispatch('elements/chargerTypes', 'elements/chargerElements')
   }
 }
 </script>

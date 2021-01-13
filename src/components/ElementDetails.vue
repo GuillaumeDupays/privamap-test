@@ -1,27 +1,18 @@
 <template>
-  
-  <l-marker
-    :key="element.id"
-  >
     <l-icon ref="icon">
       <img 
         class="maison-icon" 
         :src="element.images"
       />
-      {{ element }}
+      {{ element.images }}
     </l-icon>
-    <l-popup 
-      :content="element"
-    >
-    </l-popup>
-  </l-marker>
 </template>
 
 <script>
-import { LIcon, LMarker, LPopup } from 'vue2-leaflet'
+import { LIcon } from 'vue2-leaflet'
 
 export default {
-  components: { LIcon, LMarker, LPopup },
+  components: { LIcon },
   props: {
     element: {
       type: Object,

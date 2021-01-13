@@ -9,25 +9,13 @@
   > 
 
     <l-tile-layer :url="url" />
-
-    <elements-details
-    v-for="element in $store.getters.elements"
-      :key="element.id"
-      :element="element.name"
-      />
-
-    <l-control position="bottomright">
-        <btn-type-3></btn-type-3>
+    
+    <l-control position="bottomleft">
+      <elements />
     </l-control>
-
-    <l-control position="bottomright">
-        <btn-type-2></btn-type-2>
+    <l-control position="topright">
+       <btn-nav></btn-nav>
     </l-control>
-
-    <l-control position="bottomright">
-        <btn-type-1></btn-type-1>
-    </l-control>
-
   </l-map>
 </template>
 
@@ -35,9 +23,10 @@
 import { LMap, LTileLayer, LControl } from 'vue2-leaflet';
 
 import 'leaflet/dist/leaflet.css';
-import BtnType1 from './BtnType1.vue';
-import BtnType2 from './BtnType2.vue';
-import BtnType3 from './BtnType3.vue';
+
+import BtnNav from './BtnNav.vue';
+import Elements from './Elements.vue';
+
 
 
 export default {
@@ -45,9 +34,8 @@ export default {
     LMap,
     LTileLayer,
     LControl,
-    BtnType1,
-    BtnType2,
-    BtnType3
+    BtnNav,
+    Elements
   },
   data () {
     return {

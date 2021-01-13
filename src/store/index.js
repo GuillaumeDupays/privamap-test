@@ -1,7 +1,10 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 
-import elements from './store-elements'
+import elements from './elements'
+
+import shapes from '../store/shapes'
+
 // import example from './module-example'
 
 Vue.use(Vuex)
@@ -18,7 +21,8 @@ Vue.use(Vuex)
 export default function (/* { ssrContext } */) {
   const Store = new Vuex.Store({
     modules: {
-      elements
+      elements,
+      shapes
     },
 
     // enable strict mode (adds overhead!)
